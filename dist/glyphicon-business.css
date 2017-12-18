@@ -1,0 +1,48 @@
+/*
+ * glyphicon-business.css
+ * 
+ * Version: 1.0
+ * Last Modified: 12.18.2017
+ * Developers:  Johnathan Bamber <bamberjp@gmail.com>,
+ *          	Osmel Contrares <contreraso1@montclair.edu>,
+ *		    	Allan Gomes <gomesa3@mail.montclair.edu>
+ * Font:    Kaila Rogers <rogersk10@montclair.edu>,
+ *			Ryan Hamilton <hamiltonr5@montclair.edu>
+ *
+ */
+ 
+@font-face { 
+	font-family: Untitled1;
+	src: url('glyphicon-business.ttf')  format('truetype'),
+}
+.glyphicon-business, *[class^="glyphicon-business-"] {
+	display: inline-block;
+
+	font-family: Untitled1;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1;
+	color: #000000;
+	
+	 -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.glyphicon-business-starcheck:before { content: "\0041"; }
+.glyphicon-business-calendar:before { content: "\0043"; }
+.glyphicon-business-money:before { content: "\0046"; }
+.glyphicon-business-graduate:before { content: "\0047"; }
+.glyphicon-business-degree:before { content: "\0050"; }
+.glyphicon-business-numbers:before { content: "\0052"; }
+.glyphicon-business-time:before { content: "\0054"; }
+.glyphicon-business-note:before { content: "\0057"; }
+.glyphicon-business-pencil:before { content: "\0061"; }
+.glyphicon-business-facebook:before { content: "\0066"; }
+.glyphicon-business-question:before { content: "\0067"; }
+.glyphicon-business-instagram:before { content: "\0069"; }
+.glyphicon-business-flickr:before { content: "\006B"; }
+.glyphicon-business-location:before { content: "\006C"; }
+.glyphicon-business-map:before { content: "\006D"; }
+.glyphicon-business-mobile:before { content: "\0070"; }
+.glyphicon-business-search:before { content: "\0073"; }
+.glyphicon-business-twitter:before { content: "\0074"; }
+.glyphicon-business-youtube:before { content: "\0079"; }
