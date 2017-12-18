@@ -12,13 +12,13 @@
  */
  
 @font-face { 
-	font-family: Untitled1;
+	font-family: glyphicon-business;
 	src: url('glyphicon-business.ttf')  format('truetype'),
 }
 .glyphicon-business, *[class^="glyphicon-business-"] {
 	display: inline-block;
 
-	font-family: Untitled1;
+	font-family: glyphicon-business;
 	font-weight: normal;
 	font-style: normal;
 	line-height: 1;
