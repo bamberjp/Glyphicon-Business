@@ -23,28 +23,10 @@ Include the stylesheet in the head of the document.
 | ![glyphicon-business-facebook](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-facebook.png "glyphicon-business-facebook") | .glyphicon-business-facebook |
 | ![glyphicon-business-question](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-question.png "glyphicon-business-question") | .glyphicon-business-question |
 | ![glyphicon-business-instagram](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-instagram.png "glyphicon-business-instagram") | .glyphicon-business-instagram |
-
-
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-flickr
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-location
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-map
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-mobile
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-search
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-twitter
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
-glyphicon-business-youtube
-| ![glyphicon-business-note](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-note.png "glyphicon-business-note") | .glyphicon-business-note |
-
+| ![glyphicon-business-flickr](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-flickr.png "glyphicon-business-flickr") | .glyphicon-business-flickr |
+| ![glyphicon-business-location](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-location.png "glyphicon-business-location") | .glyphicon-business-location |
+| ![glyphicon-business-map](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-map.png "glyphicon-business-map") | .glyphicon-business-map |
+| ![glyphicon-business-mobile](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-mobile.png "glyphicon-business-mobile") | .glyphicon-business-mobile |
+| ![glyphicon-business-search](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-search.png "glyphicon-business-search") | .glyphicon-business-search |
+| ![glyphicon-business-twitter](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-twitter.png "glyphicon-business-twitter") | .glyphicon-business-twitter |
+| ![glyphicon-business-youtube](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-youtube.png "glyphicon-business-youtube") | .glyphicon-business-youtube |
