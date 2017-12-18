@@ -7,7 +7,7 @@ Include the stylesheet in the head of the document.
 ```html
 <link rel="stylesheet" type="text/css" href="glyphicon-business.css">
 ```
-Add the desired class to an element.
+Add a glyphicon class to an element.
 ```html
 <span class="glyphicon-business-pencil"></span>
 ```
