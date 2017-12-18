@@ -37,13 +37,16 @@ Add a glyphicon class to an element.
 
 ## About
 
-Developers:
+**Developers:**
 
-Johnathan Bamber \<bamberjp@gmail.com\>,
-Osmel Contrares \<contreraso1@montclair.edu\>,
+Johnathan Bamber \<bamberjp@gmail.com\>
+
+Osmel Contrares \<contreraso1@montclair.edu\>
+
 Allan Gomes \<gomesa3@mail.montclair.edu\>
 
-Font Design:
+**Font Design:**
 
-Kaila Rogers \<rogersk10@montclair.edu\>,
+Kaila Rogers \<rogersk10@montclair.edu\>
+
 Ryan Hamilton \<hamiltonr5@montclair.edu\>
