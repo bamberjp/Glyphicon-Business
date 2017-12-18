@@ -34,3 +34,16 @@ Add a glyphicon class to an element.
 | ![glyphicon-business-search](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-search.png "glyphicon-business-search") | .glyphicon-business-search |
 | ![glyphicon-business-twitter](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-twitter.png "glyphicon-business-twitter") | .glyphicon-business-twitter |
 | ![glyphicon-business-youtube](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-youtube.png "glyphicon-business-youtube") | .glyphicon-business-youtube |
+
+## About
+
+Developers:
+
+Johnathan Bamber \<bamberjp@gmail.com\>,
+Osmel Contrares \<contreraso1@montclair.edu\>,
+Allan Gomes \<gomesa3@mail.montclair.edu\>
+
+Font Design:
+
+Kaila Rogers \<rogersk10@montclair.edu\>,
+Ryan Hamilton \<hamiltonr5@montclair.edu\>
