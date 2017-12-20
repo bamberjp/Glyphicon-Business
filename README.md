@@ -34,6 +34,11 @@ Add a glyphicon class to an element.
 | ![glyphicon-business-search](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-search.png "glyphicon-business-search") | .glyphicon-business-search |
 | ![glyphicon-business-twitter](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-twitter.png "glyphicon-business-twitter") | .glyphicon-business-twitter |
 | ![glyphicon-business-youtube](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-youtube.png "glyphicon-business-youtube") | .glyphicon-business-youtube |
+| ![glyphicon-business-copyright](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-copyright.png "glyphicon-business-copyright") | .glyphicon-business-copyright |
+| ![glyphicon-business-disclaimer](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-disclaimer.png "glyphicon-business-disclaimer") | .glyphicon-business-disclaimer |
+| ![glyphicon-business-title_ix](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-titleix.png "glyphicon-business-title_ix") | .glyphicon-business-title_ix |
+| ![glyphicon-business-emergency](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-emergency.png "glyphicon-business-emergency") | .glyphicon-business-emergency |
+| ![glyphicon-business-middle-states](https://github.com/bamberjp/Glyphicon-Business/blob/master/image/glyphicon-business-middle-states.png "glyphicon-business-middle-states") | .glyphicon-business-middle-states |
 
 ## About
 
