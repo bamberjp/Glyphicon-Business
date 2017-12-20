@@ -1,8 +1,8 @@
 /*
  * glyphicon-business.css
- * 
+ *
  * Version: 1.0
- * Last Modified: 12.18.2017
+ * Last Modified: 12.20.2017
  * Developers:  Johnathan Bamber <bamberjp@gmail.com>,
  *          	Osmel Contrares <contreraso1@montclair.edu>,
  *		    	Allan Gomes <gomesa3@mail.montclair.edu>
@@ -10,10 +10,11 @@
  *			Ryan Hamilton <hamiltonr5@montclair.edu>
  *
  */
- 
-@font-face { 
+
+@font-face {
 	font-family: glyphicon-business;
-	src: url('glyphicon-business.ttf')  format('truetype'),
+	src: url("glyphicon-business.ttf")  format("truetype"),
+         url("glyphicon-business.woff") format("woff");
 }
 .glyphicon-business, *[class^="glyphicon-business-"] {
 	display: inline-block;
@@ -23,9 +24,9 @@
 	font-style: normal;
 	line-height: 1;
 	color: #000000;
-	
+
 	 -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+	-moz-osx-font-smoothing: grayscale;
 }
 .glyphicon-business-starcheck:before { content: "\0041"; }
 .glyphicon-business-calendar:before { content: "\0043"; }
@@ -46,3 +47,8 @@
 .glyphicon-business-search:before { content: "\0073"; }
 .glyphicon-business-twitter:before { content: "\0074"; }
 .glyphicon-business-youtube:before { content: "\0079"; }
+.glyphicon-business-copyright:before { content:"\0063"; }
+.glyphicon-business-disclaimer:before { content:"\0044"; }
+.glyphicon-business-title_ix:before { content:"\004E"; }
+.glyphicon-business-emergency:before { content:"\0045"; }
+.glyphicon-business-middle-states:before { content:"\004D"; }
